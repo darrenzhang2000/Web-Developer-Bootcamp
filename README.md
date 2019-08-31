@@ -8,3 +8,5 @@ Tables Pokemon Exercise: I created a table with the original three starter Pokem
 Registration Form Exercise: I created a registration form using different input types such as text, password, radio, dropdown, and checkbox. I used features such as forms, labels, form validation, and buttons.  
 
 Todolist.html and Todolist.css: I created a todolist and incorporated css onto it. I used id to incorporate css features onto specific elements and class to incorporate css features onto multiple elements. 
+
+SelectorDemo and Selectors: Demonstration of more advanced selectors such as stars, descendant selector, adjacent selector, attribute selector, nth-of-type selector. 
