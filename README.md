@@ -10,3 +10,5 @@ Registration Form Exercise: I created a registration form using different input 
 Todolist.html and Todolist.css: I created a todolist and incorporated css onto it. I used id to incorporate css features onto specific elements and class to incorporate css features onto multiple elements. 
 
 SelectorDemo and Selectors: Demonstration of more advanced selectors such as stars, descendant selector, adjacent selector, attribute selector, nth-of-type selector. 
+
+SelectorExcercise and Selectors_2: This is an assignment created by my instructor. I worked with all sorts of selectors.
