@@ -11,4 +11,6 @@ Todolist.html and Todolist.css: I created a todolist and incorporated css onto i
 
 SelectorDemo and Selectors: Demonstration of more advanced selectors such as stars, descendant selector, adjacent selector, attribute selector, nth-of-type selector. 
 
-SelectorExcercise and Selectors_2: This is an assignment created by my instructor. I worked with all sorts of selectors.
+SelectorExcercise and Selectors_2: This is an assignment created by my instructor. I worked with all sorts of selectors.  
+
+TicTacToe: I created a static website of a tic tac toe board. I took into account the "box model" and included css features such as margin, padding, width, and border.  
