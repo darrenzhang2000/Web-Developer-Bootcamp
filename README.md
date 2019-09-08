@@ -14,3 +14,5 @@ SelectorDemo and Selectors: Demonstration of more advanced selectors such as sta
 SelectorExcercise and Selectors_2: This is an assignment created by my instructor. I worked with all sorts of selectors.  
 
 TicTacToe: I created a static website of a tic tac toe board. I took into account the "box model" and included css features such as margin, padding, width, and border.  
+
+Blog.html and Blog.css: This is a fancy blog webpage I've created using css. I've used border, padding, width, margin, text transform, letter spacing, color, font-size and google fonts.
